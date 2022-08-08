@@ -1,0 +1,1 @@
+The script was created for entertainment purposes, by entering the site YOU accept responsibility for yourself
