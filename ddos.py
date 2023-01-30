@@ -1,7 +1,7 @@
 import requests
 
 from threading import Thread
-print("The script was created for entertainment purposes, by entering the site YOU accept responsibility for yourself")
+print("The script was created for entertainment purposes, by entering the site's addres in console YOU accept responsibility for yourself")
 print("Example : http://southwood.com");
 url = input('Сайт : ')
 
